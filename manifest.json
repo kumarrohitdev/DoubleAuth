@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Double Auth",
+    "name": "Beta Auth",
     "version": "1.0",
     "description": "A secure Chrome extension for managing multiple TOTP (Time-based One-Time Password) tokens with Google authentication",
     "icons": {
